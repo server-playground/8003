@@ -1,5 +1,5 @@
 # 8003
-> use `hapi` to create a server playground.
+> use `Hapi` to create a server playground.
 
 https://hapijs.com/
 
