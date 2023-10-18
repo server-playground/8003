@@ -7,9 +7,9 @@ https://github.com/hapijs/hapi
 
 ## Usage
 
-```
-$ npm install
-$ npm run start
+```bash
+npm install
+npm run start
 ```
 
 * http://localhost:8003/
